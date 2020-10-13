@@ -5600,7 +5600,9 @@
       "Richard Rich",
       "Art Stevens",
       "Al Wilson",
-      "Peter Young"
+      "Peter Young",
+      "Ron Clements",
+      "John Musker"
     ],
     "Based on": [
       "The Book of Three and",
@@ -5611,7 +5613,9 @@
       "Grant Bardsley",
       "Susan Sheridan",
       "Nigel Hawthorne",
-      "John Hurt"
+      "John Hurt",
+      "John Byner",
+      "Freddie Jones"
     ],
     "Narrated by": "John Huston",
     "Music by": "Elmer Bernstein",
@@ -5623,7 +5627,7 @@
     ],
     "Production company": [
       "Walt Disney Pictures",
-      "Walt Disney Productions",
+      "Walt Disney Feature Animation",
       "Silver Screen Partners II"
     ],
     "Distributed by": "Buena Vista Distribution",
@@ -6736,7 +6740,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$41.4 million"
+    "Box office": "$42.6 million"
   },
   {
     "title": "Cool Runnings",
@@ -11011,7 +11015,7 @@
     "Box office": "$745 million"
   },
   {
-    "title": "Glory Road's",
+    "title": "Glory Road",
     "Directed by": "James Gartner",
     "Produced by": [
       "Jerry Bruckheimer"
@@ -15231,7 +15235,7 @@
       "May 10, 2016 ( London )",
       "May 27, 2016 (United States)"
     ],
-    "Running time": "113 minutes",
+    "Running time": "114 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$170 million",
@@ -15877,7 +15881,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million",
-    "Box office": "$807.1 million"
+    "Box office": "$807.3 million"
   },
   {
     "title": "A Wrinkle in Time",
@@ -16262,9 +16266,9 @@
       "Aladdin and the Magic Lamp from One Thousand and One Nights"
     ],
     "Starring": [
+      "Will Smith",
       "Mena Massoud",
       "Naomi Scott",
-      "Will Smith",
       "Marwan Kenzari",
       "Navid Negahban",
       "Nasim Pedrad",
@@ -17023,13 +17027,8 @@
       "Angelina Jolie",
       "Danny DeVito",
       "Helen Mirren",
-      "Brooklynn Prince",
       "Ramón Rodríguez",
       "Ariana Greenblatt",
-      "Chaka Khan",
-      "Ron Funches",
-      "Phillipa Soo",
-      "Mike White",
       "Bryan Cranston"
     ],
     "Music by": "Craig Armstrong",
@@ -17168,10 +17167,7 @@
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
-    "Distributed by": [
-      "Walt Disney Studios",
-      "Motion Pictures"
-    ],
+    "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
       "October 11, 2020 ( BFI London Film Festival )",
       "December 25, 2020 (United States)"
